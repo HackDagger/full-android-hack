@@ -26,7 +26,7 @@ Full Android Hack Malware
 - 🤖 Undetectable by antivirus
 
 
-## How it works ?
+## How it works
 
 all you have to do is create telegram bot and receive your token and replace it in app then send app to target and you will receive target sms every time somone send sms to target.
 then you have full controll of target phone and you can manage it in telegram bot
