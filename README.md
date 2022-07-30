@@ -33,9 +33,10 @@ then you have full controll of target phone and you can manage it in telegram bo
 
 
 
-## How to use ?
-
-to get file and deployment check our telegram channel : [TELEGRAM CHANNEL](https://t.me/HackDagger)
+## How to use
+#### You can visit our Telegram channel or our Instagram page to get the file and setup tutorial
+<a href="https://t.me/HackDagger"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://instagram.com/hackdagger?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 
